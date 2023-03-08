@@ -19,16 +19,9 @@
 
 </center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Bits-0f-C0de/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Bits-0f-C0de/issues">Request Feature</a>
-</h3>
-
 ## Built With
 
-My personal blogpage <a href="http://blogs.soumya-jit.tech/" target="_blank">blogs.soumyajit.tech</a> which features some of my developer blog posts and experiences.<br/>
+My personal blogpage <a href="https://poetic-snickerdoodle-2591ef.netlify.app/" target="_blank">personal-blog</a> which features topics I have learned and am currently learning.<br/>
 
 This project was built using these technologies.
 
